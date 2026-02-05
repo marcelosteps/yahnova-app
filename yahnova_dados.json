@@ -1,0 +1,1841 @@
+{
+  "produtos": [
+    {
+      "nome": "ARROZ 7 GRÃOS COM CUBOS DE FRANGO",
+      "categoria": "GRÃOS",
+      "sku": "pm#917",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 3.6636,
+      "custo_por_kg": 24.424000000000003
+    },
+    {
+      "nome": "ARROZ BRANCO",
+      "categoria": "GRÃOS",
+      "sku": "pm#11",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 0.5622033898,
+      "custo_por_kg": 4.32464146
+    },
+    {
+      "nome": "ARROZ CATETO",
+      "categoria": "GRÃOS",
+      "sku": "pm#921",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 1.12,
+      "custo_por_kg": 8.615384615384617
+    },
+    {
+      "nome": "ARROZ COM LINGUIÇA",
+      "categoria": "GRÃOS",
+      "sku": "pm#905",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 1.3,
+      "custo_por_kg": 8.666666666666668
+    },
+    {
+      "nome": "ARROZ DE BROCOLIS",
+      "categoria": "GRÃOS",
+      "sku": "pm#10",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 0.9240350877,
+      "custo_por_kg": 7.107962213076923
+    },
+    {
+      "nome": "ARROZ INTEGRAL",
+      "categoria": "GRÃOS",
+      "sku": "pm#03",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 0.8311764706,
+      "custo_por_kg": 6.3936651584615385
+    },
+    {
+      "nome": "ARROZ INTEGRAL CASTANHA DE CAJU E BROCOLIS",
+      "categoria": "GRÃOS",
+      "sku": "pm#14",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 2.0,
+      "custo_por_kg": 15.384615384615383
+    },
+    {
+      "nome": "ARROZ INTEGRAL COM GRÃOS VERMELHOS",
+      "categoria": "GRÃOS",
+      "sku": "pm#51",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 1.056,
+      "custo_por_kg": 8.123076923076923
+    },
+    {
+      "nome": "ARROZ INTEGRAL DE BROCOLIS",
+      "categoria": "GRÃOS",
+      "sku": "pm#15",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 1.444090909,
+      "custo_por_kg": 11.108391607692308
+    },
+    {
+      "nome": "ARROZ JASMINE",
+      "categoria": "GRÃOS",
+      "sku": "pm#52",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 3.611529412,
+      "custo_por_kg": 27.780995476923074
+    },
+    {
+      "nome": "ARROZ NEGRO",
+      "categoria": "GRÃOS",
+      "sku": "pm#16",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 2.32,
+      "custo_por_kg": 17.846153846153843
+    },
+    {
+      "nome": "BASE PARA RISOTO",
+      "categoria": "GRÃOS",
+      "sku": "pm#45",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 1.76,
+      "custo_por_kg": 11.733333333333334
+    },
+    {
+      "nome": "BATATA ASTERIX ASSADA",
+      "categoria": "LEGUMES",
+      "sku": "pm#926",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 1.342376,
+      "custo_por_kg": 11.186466666666668
+    },
+    {
+      "nome": "BATATA DOCE COM AZEITE, SALSA E SAL ROSA.",
+      "categoria": "LEGUMES",
+      "sku": "pm#17",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 0.9216883562,
+      "custo_por_kg": 7.680736301666667
+    },
+    {
+      "nome": "BETA PURÊ/ABOBORA+CENOURA+BATATA JERIMUM TEMPERADO",
+      "categoria": "LEGUMES",
+      "sku": "pm#922",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 0.9796363636,
+      "custo_por_kg": 8.163636363333334
+    },
+    {
+      "nome": "BOLINHO DE ARROZ 7 GRÃOS",
+      "categoria": "GRÃOS",
+      "sku": "pm#925",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 16.42,
+      "custo_por_kg": 0
+    },
+    {
+      "nome": "BROCOLIS AO VAPOR / ALHO E AZEITE SALTEADOS",
+      "categoria": "LEGUMES",
+      "sku": "pm#19",
+      "peso_kg": 0.08,
+      "custo_por_porcao": 2.162333333,
+      "custo_por_kg": 27.029166662499996
+    },
+    {
+      "nome": "BURGER BALLS POMODORO",
+      "categoria": "CARNE",
+      "sku": "pm#906",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 6.93,
+      "custo_por_kg": 46.2
+    },
+    {
+      "nome": "BURGER SUPREME",
+      "categoria": "CARNE",
+      "sku": "pm#921",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 6.51,
+      "custo_por_kg": 43.4
+    },
+    {
+      "nome": "CANJA",
+      "categoria": "SOPAS",
+      "sku": "pm#920",
+      "peso_kg": 0.4,
+      "custo_por_porcao": 4.269385185,
+      "custo_por_kg": 10.673462962499999
+    },
+    {
+      "nome": "CANJA DE ARROZ 7 GRÃOS",
+      "categoria": "SOPAS",
+      "sku": "pm#929",
+      "peso_kg": 0.4,
+      "custo_por_porcao": 5.24,
+      "custo_por_kg": 13.1
+    },
+    {
+      "nome": "CARNE MOIDA COM LEGUMES",
+      "categoria": "CARNE",
+      "sku": "pm#76",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 3.972017742,
+      "custo_por_kg": 30.553982630769227
+    },
+    {
+      "nome": "CARNE MOIDA PICANTE",
+      "categoria": "CARNE",
+      "sku": "pm#901",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 4.533430759,
+      "custo_por_kg": 34.872544299999994
+    },
+    {
+      "nome": "CARNE MOÍDA PICANTE 520 G",
+      "categoria": "CARNE",
+      "sku": "pm#910",
+      "peso_kg": 0.52,
+      "custo_por_porcao": 17.1,
+      "custo_por_kg": 32.88461538461539
+    },
+    {
+      "nome": "CARNE MOÍDA PICANTE 520 G",
+      "categoria": "CARNE",
+      "sku": "pm#910",
+      "peso_kg": 0.52,
+      "custo_por_porcao": 17.1,
+      "custo_por_kg": 32.88461538461539
+    },
+    {
+      "nome": "CK BURGER",
+      "categoria": "FRANGO",
+      "sku": "pm#239",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 3.92497561,
+      "custo_por_kg": 32.70813008333334
+    },
+    {
+      "nome": "CK FILÉ DE FRANGO EMPANADO",
+      "categoria": "FRANGO",
+      "sku": "",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 3.89,
+      "custo_por_kg": 32.41666666666667
+    },
+    {
+      "nome": "CONSUMÊ DE LEGUMES",
+      "categoria": "SOPAS",
+      "sku": "pm#331",
+      "peso_kg": 0.4,
+      "custo_por_porcao": 2.703186364,
+      "custo_por_kg": 6.757965909999999
+    },
+    {
+      "nome": "CREME DE ABÓBORA COM CRISPY DE BACON",
+      "categoria": "SOPAS",
+      "sku": "pm#51",
+      "peso_kg": 0.4,
+      "custo_por_porcao": 4.497738,
+      "custo_por_kg": 11.244345
+    },
+    {
+      "nome": "CREME DE ERVILHAS",
+      "categoria": "SOPAS",
+      "sku": "pm#21",
+      "peso_kg": 0.4,
+      "custo_por_porcao": 2.211288235,
+      "custo_por_kg": 5.5282205875
+    },
+    {
+      "nome": "CREME DE MANDIOQUINHA COM SALMÃO",
+      "categoria": "SOPAS",
+      "sku": "pm#337",
+      "peso_kg": 0.4,
+      "custo_por_porcao": 18.1203,
+      "custo_por_kg": 45.30075
+    },
+    {
+      "nome": "CREME DE MANDIOQUINHA E ALHO PORÓ",
+      "categoria": "SOPAS",
+      "sku": "pm#339",
+      "peso_kg": 0.4,
+      "custo_por_porcao": 6.9420375,
+      "custo_por_kg": 17.355093749999998
+    },
+    {
+      "nome": "CUBOS BATATA DOCE COM AÇAFRÃO E PIMENTA CAIENA / MIX TB",
+      "categoria": "LEGUMES",
+      "sku": "pm#11",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 0.63,
+      "custo_por_kg": 5.25
+    },
+    {
+      "nome": "CUBOS DE FRANGO COM BRÓCOLIS",
+      "categoria": "FRANGO",
+      "sku": "pm#911",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 3.262119048,
+      "custo_por_kg": 21.747460320000002
+    },
+    {
+      "nome": "CUSCUZ MARROQUINO COM GRÃO DE BICO",
+      "categoria": "GRÃOS",
+      "sku": "pm#25",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 2.265246429,
+      "custo_por_kg": 22.652464289999998
+    },
+    {
+      "nome": "DADINHO LANCHE",
+      "categoria": "OUTROS",
+      "sku": "pm#924",
+      "peso_kg": 0.064,
+      "custo_por_porcao": 0.994244898,
+      "custo_por_kg": 15.53507653125
+    },
+    {
+      "nome": "FAROFA COM COUVE",
+      "categoria": "GRÃOS",
+      "sku": "pm#20",
+      "peso_kg": 0.05,
+      "custo_por_porcao": 1.25825,
+      "custo_por_kg": 25.165
+    },
+    {
+      "nome": "FEIJÃO BRANCO COM BACON",
+      "categoria": "GRÃOS",
+      "sku": "pm#27",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 1.189288889,
+      "custo_por_kg": 7.928592593333334
+    },
+    {
+      "nome": "FEIJÃO CARIOCA",
+      "categoria": "GRÃOS",
+      "sku": "pm#21",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 0.913036,
+      "custo_por_kg": 6.086906666666667
+    },
+    {
+      "nome": "FEIJÃO PRETO",
+      "categoria": "GRÃOS",
+      "sku": "pm#30",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 1.022745833,
+      "custo_por_kg": 6.818305553333334
+    },
+    {
+      "nome": "FEIJÃO VERMELHO",
+      "categoria": "GRÃOS",
+      "sku": "pm#335",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 0.9606478261,
+      "custo_por_kg": 6.404318840666667
+    },
+    {
+      "nome": "FILÉ DE PEITO DE FRANGO GRILL",
+      "categoria": "FRANGO",
+      "sku": "pm#32",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 4.317473438,
+      "custo_por_kg": 28.78315625333334
+    },
+    {
+      "nome": "FILÉ DE SALMÃO",
+      "categoria": "F. MAR",
+      "sku": "pm#71",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 14.77733333,
+      "custo_por_kg": 123.14444441666667
+    },
+    {
+      "nome": "FILÉ DE SOBRECOXA ASSADA",
+      "categoria": "FRANGO",
+      "sku": "pm#333",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 5.63,
+      "custo_por_kg": 37.53333333333333
+    },
+    {
+      "nome": "FRANGO COM CREME DE MILHO",
+      "categoria": "FRANGO",
+      "sku": "pm#916",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 4.17,
+      "custo_por_kg": 27.8
+    },
+    {
+      "nome": "FRANGO COM MANDIOQUINHA",
+      "categoria": "FRANGO",
+      "sku": "pm#919",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 3.6987,
+      "custo_por_kg": 24.658
+    },
+    {
+      "nome": "FRANGO COM MOSTARDA",
+      "categoria": "FRANGO",
+      "sku": "pm#915",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 3.25,
+      "custo_por_kg": 25.0
+    },
+    {
+      "nome": "FRANGO DESFIADO TEMPERADO 40g",
+      "categoria": "FRANGO",
+      "sku": "pm#930",
+      "peso_kg": 0.04,
+      "custo_por_porcao": 1.61,
+      "custo_por_kg": 40.25
+    },
+    {
+      "nome": "FRANGO LISTRADO",
+      "categoria": "FRANGO",
+      "sku": "pm#913",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 2.61,
+      "custo_por_kg": 17.4
+    },
+    {
+      "nome": "FRANGO ORIENTAL",
+      "categoria": "FRANGO",
+      "sku": "pm#911",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 4.361727273,
+      "custo_por_kg": 29.078181819999998
+    },
+    {
+      "nome": "FRANGO XADREZ",
+      "categoria": "FRANGO",
+      "sku": "pm#901",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 3.36148503,
+      "custo_por_kg": 22.4099002
+    },
+    {
+      "nome": "LASCAS DE SIRIGADO NA CAMA DE CEBOLA",
+      "categoria": "F. MAR",
+      "sku": "pm#921",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 3.37,
+      "custo_por_kg": 28.083333333333336
+    },
+    {
+      "nome": "LEGUMES AO VAPOR",
+      "categoria": "LEGUMES",
+      "sku": "pm#40",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 1.717227273,
+      "custo_por_kg": 14.310227275
+    },
+    {
+      "nome": "LEGUMES ASSADOS / SAPECADOS",
+      "categoria": "LEGUMES",
+      "sku": "pm#41",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 2.772,
+      "custo_por_kg": 23.099999999999998
+    },
+    {
+      "nome": "LENTILHA CROCANTE COM BACON",
+      "categoria": "GRÃOS",
+      "sku": "pm#44",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 2.31,
+      "custo_por_kg": 23.099999999999998
+    },
+    {
+      "nome": "MANDIOQUINHA AO VAPOR COM ALECRIM E SALSA",
+      "categoria": "LEGUMES",
+      "sku": "pm#12",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 4.182827586,
+      "custo_por_kg": 41.82827586
+    },
+    {
+      "nome": "MANDIOQUINHA SOUTÉ",
+      "categoria": "LEGUMES",
+      "sku": "pm#43",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 4.182827586,
+      "custo_por_kg": 41.82827586
+    },
+    {
+      "nome": "MIGNON AO MOLHO MALBEC",
+      "categoria": "CARNE",
+      "sku": "pm#334",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 12.73465374,
+      "custo_por_kg": 84.8976916
+    },
+    {
+      "nome": "MIX DE BATATAS DOCE SOUTÉ",
+      "categoria": "LEGUMES",
+      "sku": "pm#909",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 1.857201613,
+      "custo_por_kg": 15.476680108333333
+    },
+    {
+      "nome": "MIX DE COGUMELOS",
+      "categoria": "LEGUMES",
+      "sku": "pm#927",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 6.98245,
+      "custo_por_kg": 69.8245
+    },
+    {
+      "nome": "MOQUECA DE SIRIGADO COM CAMARÕES",
+      "categoria": "F. MAR",
+      "sku": "pm#47",
+      "peso_kg": 0.227,
+      "custo_por_porcao": 7.6,
+      "custo_por_kg": 33.480176211453745
+    },
+    {
+      "nome": "PEIXADA GOLF RESORT",
+      "categoria": "F. MAR",
+      "sku": "pm#912",
+      "peso_kg": 0.25,
+      "custo_por_porcao": 1.9,
+      "custo_por_kg": 7.6
+    },
+    {
+      "nome": "PICADINHO DE CARNE COM  BATATA DOCE",
+      "categoria": "CARNE",
+      "sku": "pm#50",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 4.26,
+      "custo_por_kg": 28.4
+    },
+    {
+      "nome": "PICADINHO DE CARNE COM LEGUMES",
+      "categoria": "CARNE",
+      "sku": "pm#49",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 5.230830303,
+      "custo_por_kg": 34.87220202
+    },
+    {
+      "nome": "PULLED PORK",
+      "categoria": "CARNE",
+      "sku": "pm#923",
+      "peso_kg": 0.36,
+      "custo_por_porcao": 7.72,
+      "custo_por_kg": 21.444444444444443
+    },
+    {
+      "nome": "PULLED PORK",
+      "categoria": "CARNE",
+      "sku": "pm#923",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 3.6255548,
+      "custo_por_kg": 24.170365333333336
+    },
+    {
+      "nome": "PURE DE BATATA ASTERIX",
+      "categoria": "LEGUMES",
+      "sku": "pm#53",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 1.15,
+      "custo_por_kg": 11.499999999999998
+    },
+    {
+      "nome": "PURE DE BATATA DOCE DELICIA",
+      "categoria": "LEGUMES",
+      "sku": "pm#29",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 0.8921942169,
+      "custo_por_kg": 7.4349518075
+    },
+    {
+      "nome": "PURE DE BATATA DOCE JERIMUM",
+      "categoria": "LEGUMES",
+      "sku": "pm#54",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 1.288336923,
+      "custo_por_kg": 10.736141025
+    },
+    {
+      "nome": "PURE DE BATATA DOCE ROXA",
+      "categoria": "LEGUMES",
+      "sku": "pm#55",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 1.240891304,
+      "custo_por_kg": 10.340760866666667
+    },
+    {
+      "nome": "PURE DE BATATA DOCE ZAFRAN temperado TOP",
+      "categoria": "LEGUMES",
+      "sku": "pm#56",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 1.06,
+      "custo_por_kg": 8.833333333333334
+    },
+    {
+      "nome": "PURE DE CENOURA",
+      "categoria": "LEGUMES",
+      "sku": "pm#57",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 0.39,
+      "custo_por_kg": 3.2500000000000004
+    },
+    {
+      "nome": "PURE DE MANDIOQUINHA",
+      "categoria": "LEGUMES",
+      "sku": "pm#7",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 3.606941176,
+      "custo_por_kg": 30.057843133333332
+    },
+    {
+      "nome": "RAGU DE CARNE ASSADA",
+      "categoria": "CARNE",
+      "sku": "pm#001",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 5.709990647,
+      "custo_por_kg": 38.066604313333336
+    },
+    {
+      "nome": "RISOTO DE ABOBRINHA COM ALHO PORÓ",
+      "categoria": "GRÃOS",
+      "sku": "pm#46",
+      "peso_kg": 0.25,
+      "custo_por_porcao": 2.61,
+      "custo_por_kg": 10.44
+    },
+    {
+      "nome": "RISOTO DE TOMATE",
+      "categoria": "GRÃOS",
+      "sku": "pm#336",
+      "peso_kg": 0.25,
+      "custo_por_porcao": 2.25,
+      "custo_por_kg": 9.0
+    },
+    {
+      "nome": "SAINT PETER POMODORO",
+      "categoria": "F. MAR",
+      "sku": "pm#70",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 4.27,
+      "custo_por_kg": 28.466666666666665
+    },
+    {
+      "nome": "SALMÃO EM LASCAS",
+      "categoria": "F. MAR",
+      "sku": "pm#72",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 12.33149688,
+      "custo_por_kg": 102.762474
+    },
+    {
+      "nome": "SHIMEJI THAI",
+      "categoria": "LEGUMES",
+      "sku": "pm#73",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 7.550728571,
+      "custo_por_kg": 75.50728570999999
+    },
+    {
+      "nome": "SHRIMP CHARDONNAY",
+      "categoria": "F. MAR",
+      "sku": "pm#904",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 9.050636364,
+      "custo_por_kg": 75.4219697
+    },
+    {
+      "nome": "SOPA DE BATATA DOCE COM FRANGO",
+      "categoria": "SOPAS",
+      "sku": "pm#903",
+      "peso_kg": 0.4,
+      "custo_por_porcao": 5.809645455,
+      "custo_por_kg": 14.5241136375
+    },
+    {
+      "nome": "TIRAS DE MIGNON COM MOLHO DE VINHO TINTO E BROCOLIS",
+      "categoria": "CARNE",
+      "sku": "pm#907",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 10.31025183,
+      "custo_por_kg": 68.7350122
+    },
+    {
+      "nome": "VEGAN BURGUER",
+      "categoria": "LEGUMES",
+      "sku": "pm#9",
+      "peso_kg": 0.25,
+      "custo_por_porcao": 1.6,
+      "custo_por_kg": 6.4
+    },
+    {
+      "nome": "Carne moída refogada 500g",
+      "categoria": "CARNE",
+      "sku": "pm#931",
+      "peso_kg": 0.5,
+      "custo_por_porcao": 29.3,
+      "custo_por_kg": 58.6
+    },
+    {
+      "nome": "FRANGO DESFIADO TEMPERADO 500g",
+      "categoria": "FRANGO",
+      "sku": "pm#932",
+      "peso_kg": 0.5,
+      "custo_por_porcao": 16.3,
+      "custo_por_kg": 32.6
+    },
+    {
+      "nome": "FRANGO DESFIADO TEMPERADO 250g",
+      "categoria": "FRANGO",
+      "sku": "pm#933",
+      "peso_kg": 0.25,
+      "custo_por_porcao": 8.15,
+      "custo_por_kg": 32.6
+    },
+    {
+      "nome": "FRANGO DESFIADO TEMPERADO 100g",
+      "categoria": "FRANGO",
+      "sku": "pm#934",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 3.47,
+      "custo_por_kg": 34.7
+    },
+    {
+      "nome": "FRANGO DESFIADO TEMPERADO 40g",
+      "categoria": "FRANGO",
+      "sku": "pm#941",
+      "peso_kg": 0.04,
+      "custo_por_porcao": 1.61,
+      "custo_por_kg": 40.25
+    },
+    {
+      "nome": "Carne moída refogada 250g",
+      "categoria": "CARNE",
+      "sku": "pm#935",
+      "peso_kg": 0.25,
+      "custo_por_porcao": 14.62,
+      "custo_por_kg": 58.48
+    },
+    {
+      "nome": "Carne moída refogada 100g",
+      "categoria": "CARNE",
+      "sku": "pm#936",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 6.07,
+      "custo_por_kg": 60.7
+    },
+    {
+      "nome": "Carne moída refogada 50g",
+      "categoria": "CARNE",
+      "sku": "pm#937",
+      "peso_kg": 0.04,
+      "custo_por_porcao": 3.24,
+      "custo_por_kg": 81.0
+    },
+    {
+      "nome": "MEDALHÃO DE MIGNON SUÍNO",
+      "categoria": "CARNE",
+      "sku": "pm#931",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 5.281778261,
+      "custo_por_kg": 40.629063546153844
+    },
+    {
+      "nome": "Carne moída picante sous chef 500g",
+      "categoria": "CARNE",
+      "sku": "pm#939",
+      "peso_kg": 0.5,
+      "custo_por_porcao": 14.7,
+      "custo_por_kg": 29.4
+    },
+    {
+      "nome": "Carne moída picante sous chef 1000g",
+      "categoria": "CARNE",
+      "sku": "pm#940",
+      "peso_kg": 1.0,
+      "custo_por_porcao": 29.4,
+      "custo_por_kg": 29.4
+    },
+    {
+      "nome": "SUÍNO TRINCHADO AO MOLHO",
+      "categoria": "CARNE",
+      "sku": "pm#941",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 4.33072093,
+      "custo_por_kg": 33.31323792307692
+    },
+    {
+      "nome": "VATAPÁ DE FRANGO 300",
+      "categoria": "OUTROS",
+      "sku": "pm#942",
+      "peso_kg": 0.3,
+      "custo_por_porcao": 3.23378391,
+      "custo_por_kg": 10.7792797
+    },
+    {
+      "nome": "CREME DE FRANGO",
+      "categoria": "OUTROS",
+      "sku": "pm#943",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 1.922202079,
+      "custo_por_kg": 12.814680526666667
+    },
+    {
+      "nome": "JOELHO DE PORKO NO SOUS VIDE",
+      "categoria": "CARNE",
+      "sku": "pm#944",
+      "peso_kg": 1.0,
+      "custo_por_porcao": 18.54954545,
+      "custo_por_kg": 18.54954545
+    },
+    {
+      "nome": "FAROFA DE PANKO COM CALABRESA",
+      "categoria": "OUTROS",
+      "sku": "pm#945",
+      "peso_kg": 0.15,
+      "custo_por_porcao": 7.236658537,
+      "custo_por_kg": 48.24439024666667
+    },
+    {
+      "nome": "ESPAGUETE DE ARROZ E FEIJÃO COM MOLHO DE TOMATE E CAMARÃO",
+      "categoria": "OUTROS",
+      "sku": "pm#947",
+      "peso_kg": 0.36,
+      "custo_por_porcao": 4.26073507,
+      "custo_por_kg": 11.835375194444445
+    },
+    {
+      "nome": "ESPAGUETE DE ARROZ E FEIJÃO COM CAMARÃO",
+      "categoria": "OUTROS",
+      "sku": "pm#949",
+      "peso_kg": 0.3,
+      "custo_por_porcao": 13.55580362,
+      "custo_por_kg": 45.18601206666667
+    },
+    {
+      "nome": "ESPAGUETE DE ARROZ E FEIJÃO COM MOLHO DE TOMATE",
+      "categoria": "OUTROS",
+      "sku": "pm#950",
+      "peso_kg": 0.3,
+      "custo_por_porcao": 3.593417347,
+      "custo_por_kg": 11.978057823333334
+    },
+    {
+      "nome": "LINGUINE CHILLI POMODORO",
+      "categoria": "OUTROS",
+      "sku": "pm#951",
+      "peso_kg": 0.41,
+      "custo_por_porcao": 7.717720759,
+      "custo_por_kg": 18.823709168292684
+    },
+    {
+      "nome": "LINGUINE FRANGO POMODORO",
+      "categoria": "OUTROS",
+      "sku": "pm#952",
+      "peso_kg": 0.31,
+      "custo_por_porcao": 5.500645625,
+      "custo_por_kg": 17.744018145161288
+    },
+    {
+      "nome": "LINGUINE POMODORO",
+      "categoria": "OUTROS",
+      "sku": "pm#953",
+      "peso_kg": 0.31,
+      "custo_por_porcao": 2.62233,
+      "custo_por_kg": 8.459129032258064
+    },
+    {
+      "nome": "CARNE LOUCA",
+      "categoria": "OUTROS",
+      "sku": "pm#954",
+      "peso_kg": 0.07,
+      "custo_por_porcao": 3.509863967,
+      "custo_por_kg": 50.14091381428571
+    },
+    {
+      "nome": "CEBOLA REFOGADA",
+      "categoria": "OUTROS",
+      "sku": "pm#955",
+      "peso_kg": 1.0,
+      "custo_por_porcao": 8.103731343,
+      "custo_por_kg": 8.103731343
+    },
+    {
+      "nome": "CEBOLA CARAMELIZADA",
+      "categoria": "OUTROS",
+      "sku": "pm#956",
+      "peso_kg": 1.0,
+      "custo_por_porcao": 24.06832298,
+      "custo_por_kg": 24.06832298
+    },
+    {
+      "nome": "COCADA DE FORNO mini brigadeirão",
+      "categoria": "OUTROS",
+      "sku": "pm#957",
+      "peso_kg": 0.05,
+      "custo_por_porcao": 1.010555556,
+      "custo_por_kg": 20.211111119999998
+    },
+    {
+      "nome": "PUDIM DE LEITE CONDENSADO",
+      "categoria": "OUTROS",
+      "sku": "pm#951",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 1.79375,
+      "custo_por_kg": 17.9375
+    },
+    {
+      "nome": "BROWNIE COM CACAU 100% MANTEIGA",
+      "categoria": "OUTROS",
+      "sku": "pm#959",
+      "peso_kg": 0.05,
+      "custo_por_porcao": 2.389423077,
+      "custo_por_kg": 47.78846154
+    },
+    {
+      "nome": "BROWNIE CACAU 50% MARGARINA",
+      "categoria": "OUTROS",
+      "sku": "pm#960",
+      "peso_kg": 0.056,
+      "custo_por_porcao": 1.325576923,
+      "custo_por_kg": 23.671016482142857
+    },
+    {
+      "nome": "DADINHO LANCHE",
+      "categoria": "OUTROS",
+      "sku": "pm#961",
+      "peso_kg": 0.07,
+      "custo_por_porcao": 1.966386861,
+      "custo_por_kg": 28.091240871428568
+    },
+    {
+      "nome": "LOMBO SUÍNO DESFIADO",
+      "categoria": "OUTROS",
+      "sku": "pm#962",
+      "peso_kg": 0.07,
+      "custo_por_porcao": 1.55698547,
+      "custo_por_kg": 22.242649571428572
+    },
+    {
+      "nome": "BAIÃO DE FEIJÃO VERDE",
+      "categoria": "OUTROS",
+      "sku": "pm#963",
+      "peso_kg": 0.25,
+      "custo_por_porcao": 2.1,
+      "custo_por_kg": 8.4
+    },
+    {
+      "nome": "CARNE DO SOL",
+      "categoria": "OUTROS",
+      "sku": "pm#964",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 8.3104628,
+      "custo_por_kg": 83.10462799999999
+    },
+    {
+      "nome": "MACAXEIRA CREMOSA",
+      "categoria": "OUTROS",
+      "sku": "pm#965",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 0.86524,
+      "custo_por_kg": 8.6524
+    },
+    {
+      "nome": "BURGER BALL (COM LOMBINHO)",
+      "categoria": "OUTROS",
+      "sku": "pm#966",
+      "peso_kg": 0.07,
+      "custo_por_porcao": 2.30711165,
+      "custo_por_kg": 32.95873785714285
+    },
+    {
+      "nome": "MOLHO POMODORO",
+      "categoria": "OUTROS",
+      "sku": "pm#967",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 0.4737358861,
+      "custo_por_kg": 4.737358861
+    },
+    {
+      "nome": "FRANGO COM CREME DE MILHO, ARROZ INT DE BRÓCOLIS E ABÓBORA ASSADA",
+      "categoria": "OUTROS",
+      "sku": "pm#968",
+      "peso_kg": 0.38,
+      "custo_por_porcao": 7.613117936,
+      "custo_por_kg": 20.034520884210526
+    },
+    {
+      "nome": "PURÊ DE BATATA INGLESA",
+      "categoria": "OUTROS",
+      "sku": "pm#988",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 0.9904612365,
+      "custo_por_kg": 8.2538436375
+    },
+    {
+      "nome": "FEIJOADA",
+      "categoria": "OUTROS",
+      "sku": "pm#992",
+      "peso_kg": 0.25,
+      "custo_por_porcao": 3.103563111,
+      "custo_por_kg": 12.414252444
+    },
+    {
+      "nome": "ARROZ INTEGRAL COM CENOURA E CASTANHA",
+      "categoria": "OUTROS",
+      "sku": "pm#1010",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 1.8,
+      "custo_por_kg": 13.846153846153847
+    },
+    {
+      "nome": "FAROFA PANKO C/BACON E COUVE",
+      "categoria": "OUTROS",
+      "sku": "pm#1011",
+      "peso_kg": 0.035,
+      "custo_por_porcao": 2.5,
+      "custo_por_kg": 71.42857142857142
+    },
+    {
+      "nome": "COUSCOUS MARROQUINO VEGANO",
+      "categoria": "OUTROS",
+      "sku": "pm#1016",
+      "peso_kg": 0.1,
+      "custo_por_porcao": 1.891757143,
+      "custo_por_kg": 18.91757143
+    },
+    {
+      "nome": "Cubos de Frango ao Molho de Ervas Finas",
+      "categoria": "OUTROS",
+      "sku": "pm#1018",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 4.749220781,
+      "custo_por_kg": 36.532467546153846
+    },
+    {
+      "nome": "Arroz integral com castanha de caju e cenoura",
+      "categoria": "OUTROS",
+      "sku": "pm#1019",
+      "peso_kg": 0.13,
+      "custo_por_porcao": 1.591048041,
+      "custo_por_kg": 12.238831084615384
+    },
+    {
+      "nome": "FUSILLI VEGAN GLUTEN FREE",
+      "categoria": "OUTROS",
+      "sku": "HH#0021124",
+      "peso_kg": 0.27,
+      "custo_por_porcao": 6.400654752,
+      "custo_por_kg": 23.70612871111111
+    },
+    {
+      "nome": "SPAGUETTI BOLONHESE",
+      "categoria": "OUTROS",
+      "sku": "HH#0021058",
+      "peso_kg": 0.4,
+      "custo_por_porcao": 9.374397526,
+      "custo_por_kg": 23.435993814999996
+    },
+    {
+      "nome": "SPEZIA",
+      "categoria": "OUTROS",
+      "sku": "HH#0021126",
+      "peso_kg": 0.38,
+      "custo_por_porcao": 12.03856064,
+      "custo_por_kg": 31.680422736842104
+    },
+    {
+      "nome": "BATATA INGLESA SOUTÉ",
+      "categoria": "OUTROS",
+      "sku": "HH#0021127",
+      "peso_kg": 0.12,
+      "custo_por_porcao": 0.8360222603,
+      "custo_por_kg": 6.966852169166668
+    },
+    {
+      "nome": "Feijoada Vegana, Arroz Integral, Farofa e Couve Refogada",
+      "categoria": "OUTROS",
+      "sku": "HH#0021140",
+      "peso_kg": 0.2,
+      "custo_por_porcao": 2.629977004,
+      "custo_por_kg": 13.14988502
+    }
+  ],
+  "insumos": [
+    {
+      "nome": "Abóbora Cabotia",
+      "unidade": "KG",
+      "valor_por_unidade": 4.5
+    },
+    {
+      "nome": "Abóbora Leite",
+      "unidade": "KG",
+      "valor_por_unidade": 3.9
+    },
+    {
+      "nome": "Abobrinha",
+      "unidade": "KG",
+      "valor_por_unidade": 3.49
+    },
+    {
+      "nome": "Alho com casca",
+      "unidade": "KG",
+      "valor_por_unidade": 20.0
+    },
+    {
+      "nome": "Alho descascado congelado",
+      "unidade": "KG",
+      "valor_por_unidade": 22.0
+    },
+    {
+      "nome": "Batata asterix",
+      "unidade": "KG",
+      "valor_por_unidade": 6.0
+    },
+    {
+      "nome": "Batata Doce Comum",
+      "unidade": "KG",
+      "valor_por_unidade": 3.5
+    },
+    {
+      "nome": "Batata doce branca",
+      "unidade": "KG",
+      "valor_por_unidade": 4.9
+    },
+    {
+      "nome": "Batata Doce Jerimum",
+      "unidade": "KG",
+      "valor_por_unidade": 9.1
+    },
+    {
+      "nome": "Batata Doce Roxa",
+      "unidade": "KG",
+      "valor_por_unidade": 9.0
+    },
+    {
+      "nome": "Batata Inglesa",
+      "unidade": "KG",
+      "valor_por_unidade": 5.0
+    },
+    {
+      "nome": "Beterraba",
+      "unidade": "KG",
+      "valor_por_unidade": 3.0
+    },
+    {
+      "nome": "Cebola Branca",
+      "unidade": "KG",
+      "valor_por_unidade": 4.0
+    },
+    {
+      "nome": "Cebola Roxa",
+      "unidade": "KG",
+      "valor_por_unidade": 6.0
+    },
+    {
+      "nome": "Cenoura",
+      "unidade": "KG",
+      "valor_por_unidade": 6.5
+    },
+    {
+      "nome": "Inhame",
+      "unidade": "KG",
+      "valor_por_unidade": 3.0
+    },
+    {
+      "nome": "Feijão verde",
+      "unidade": "KG",
+      "valor_por_unidade": 20.0
+    },
+    {
+      "nome": "Gengibre",
+      "unidade": "KG",
+      "valor_por_unidade": 26.0
+    },
+    {
+      "nome": "Macaxeira congelada",
+      "unidade": "KG",
+      "valor_por_unidade": 8.9
+    },
+    {
+      "nome": "Mandioquinha",
+      "unidade": "KG",
+      "valor_por_unidade": 28.0
+    },
+    {
+      "nome": "Milho verde",
+      "unidade": "KG",
+      "valor_por_unidade": 14.0
+    },
+    {
+      "nome": "Pimenta de cheiro",
+      "unidade": "KG",
+      "valor_por_unidade": 10.9
+    },
+    {
+      "nome": "Pimentão amarelo",
+      "unidade": "KG",
+      "valor_por_unidade": 21.0
+    },
+    {
+      "nome": "Pimentão verde",
+      "unidade": "KG",
+      "valor_por_unidade": 5.0
+    },
+    {
+      "nome": "Pimentão vermelho",
+      "unidade": "KG",
+      "valor_por_unidade": 21.0
+    },
+    {
+      "nome": "Tomate Cajá",
+      "unidade": "KG",
+      "valor_por_unidade": 5.0
+    },
+    {
+      "nome": "Tomate Cereja 250g",
+      "unidade": "KG",
+      "valor_por_unidade": 9.1
+    },
+    {
+      "nome": "Tomate Salada",
+      "unidade": "KG",
+      "valor_por_unidade": 5.0
+    },
+    {
+      "nome": "Cogumelo Paris",
+      "unidade": "KG",
+      "valor_por_unidade": 60.0
+    },
+    {
+      "nome": "Cogumlo Portobelo",
+      "unidade": "KG",
+      "valor_por_unidade": 54.0
+    },
+    {
+      "nome": "Cogumelo Shitake",
+      "unidade": "KG",
+      "valor_por_unidade": 70.0
+    },
+    {
+      "nome": "Cogumelo Shimeji",
+      "unidade": "KG",
+      "valor_por_unidade": 66.0
+    },
+    {
+      "nome": "POLPA DE MARACUJÁ",
+      "unidade": "KG",
+      "valor_por_unidade": 20.39
+    },
+    {
+      "nome": "MORANGO CONG",
+      "unidade": "KG",
+      "valor_por_unidade": 17.52
+    },
+    {
+      "nome": "FRUTAS VERMELHAS CONG",
+      "unidade": "KG",
+      "valor_por_unidade": 25.09
+    },
+    {
+      "nome": "MELANCIA",
+      "unidade": "KG",
+      "valor_por_unidade": 2.69
+    },
+    {
+      "nome": "Acelga",
+      "unidade": "KG",
+      "valor_por_unidade": 5.9
+    },
+    {
+      "nome": "Alecrim",
+      "unidade": "KG",
+      "valor_por_unidade": 30.0
+    },
+    {
+      "nome": "Alface Americana",
+      "unidade": "KG",
+      "valor_por_unidade": 3.5
+    },
+    {
+      "nome": "Alho Poró",
+      "unidade": "un",
+      "valor_por_unidade": 5.7
+    },
+    {
+      "nome": "Brócolis",
+      "unidade": "KG",
+      "valor_por_unidade": 16.0
+    },
+    {
+      "nome": "Cebolinha",
+      "unidade": "KG",
+      "valor_por_unidade": 20.0
+    },
+    {
+      "nome": "Coentro",
+      "unidade": "KG",
+      "valor_por_unidade": 20.0
+    },
+    {
+      "nome": "Couve flor",
+      "unidade": "KG",
+      "valor_por_unidade": 14.0
+    },
+    {
+      "nome": "Couve Manteiga",
+      "unidade": "KG",
+      "valor_por_unidade": 25.0
+    },
+    {
+      "nome": "Dill (Endro)",
+      "unidade": "KG",
+      "valor_por_unidade": 2.9
+    },
+    {
+      "nome": "Hortelã",
+      "unidade": "KG",
+      "valor_por_unidade": 2.9
+    },
+    {
+      "nome": "Manjericão",
+      "unidade": "KG",
+      "valor_por_unidade": 3.9
+    },
+    {
+      "nome": "MACAXEIRA DESCASCADA",
+      "unidade": "KG",
+      "valor_por_unidade": 4.5
+    },
+    {
+      "nome": "Repolho branco",
+      "unidade": "KG",
+      "valor_por_unidade": 3.99
+    },
+    {
+      "nome": "Salsa",
+      "unidade": "KG",
+      "valor_por_unidade": 6.0
+    },
+    {
+      "nome": "Salsa Lisa",
+      "unidade": "KG",
+      "valor_por_unidade": 3.0
+    },
+    {
+      "nome": "Salsão",
+      "unidade": "KG",
+      "valor_por_unidade": 6.0
+    },
+    {
+      "nome": "Tomilho G",
+      "unidade": "KG",
+      "valor_por_unidade": 30.0
+    },
+    {
+      "nome": "Vagem",
+      "unidade": "KG",
+      "valor_por_unidade": 10.9
+    },
+    {
+      "nome": "LINGUIÇA SUÍNA",
+      "unidade": "KG",
+      "valor_por_unidade": 13.98
+    },
+    {
+      "nome": "BACON",
+      "unidade": "KG",
+      "valor_por_unidade": 24.0
+    },
+    {
+      "nome": "CARRÉ SUINO",
+      "unidade": "KG",
+      "valor_por_unidade": 14.9
+    },
+    {
+      "nome": "PEITO COM OSSO",
+      "unidade": "KG",
+      "valor_por_unidade": 16.0
+    },
+    {
+      "nome": "DIAFRAGMA",
+      "unidade": "KG",
+      "valor_por_unidade": 21.79
+    },
+    {
+      "nome": "FILÉ DE PEITO DE FRANGO",
+      "unidade": "KG",
+      "valor_por_unidade": 19.0
+    },
+    {
+      "nome": "FILÉ MIGNON RESF 4/5",
+      "unidade": "KG",
+      "valor_por_unidade": 79.0
+    },
+    {
+      "nome": "FILÉ MIGNON SUÍNO",
+      "unidade": "KG",
+      "valor_por_unidade": 22.0
+    },
+    {
+      "nome": "PALETA SUÍNA",
+      "unidade": "KG",
+      "valor_por_unidade": 19.5
+    },
+    {
+      "nome": "LOMBINHO BOVINO",
+      "unidade": "KG",
+      "valor_por_unidade": 21.99
+    },
+    {
+      "nome": "COXÃO MOLE",
+      "unidade": "KG",
+      "valor_por_unidade": 40.0
+    },
+    {
+      "nome": "PATINHO BOV",
+      "unidade": "KG",
+      "valor_por_unidade": 40.0
+    },
+    {
+      "nome": "CALABRESA",
+      "unidade": "KG",
+      "valor_por_unidade": 25.0
+    },
+    {
+      "nome": "FILÉ DE SALMÃO (PRANCHA)",
+      "unidade": "KG",
+      "valor_por_unidade": 85.0
+    },
+    {
+      "nome": "CUPIM BOVINO",
+      "unidade": "KG",
+      "valor_por_unidade": 36.0
+    },
+    {
+      "nome": "filé de sobrecoxa de frango",
+      "unidade": "KG",
+      "valor_por_unidade": 16.0
+    },
+    {
+      "nome": "PÃO FRANCÊS",
+      "unidade": "KG",
+      "valor_por_unidade": 19.9
+    },
+    {
+      "nome": "CUSCUZ MORROQUINO",
+      "unidade": "KG",
+      "valor_por_unidade": 29.0
+    },
+    {
+      "nome": "SHOYO SAKURA",
+      "unidade": "L",
+      "valor_por_unidade": 23.0
+    },
+    {
+      "nome": "SHOYO MARATÁ",
+      "unidade": "L",
+      "valor_por_unidade": 12.16
+    },
+    {
+      "nome": "LEITE",
+      "unidade": "L",
+      "valor_por_unidade": 5.0
+    },
+    {
+      "nome": "CREME DE LEITE",
+      "unidade": "L",
+      "valor_por_unidade": 15.0
+    },
+    {
+      "nome": "LEITE VEGETAL",
+      "unidade": "L",
+      "valor_por_unidade": 11.0
+    },
+    {
+      "nome": "QUEIJO COALHO",
+      "unidade": "KG",
+      "valor_por_unidade": 35.0
+    },
+    {
+      "nome": "VINHO TINTO",
+      "unidade": "L",
+      "valor_por_unidade": 11.0
+    },
+    {
+      "nome": "VINHO BRANCO",
+      "unidade": "L",
+      "valor_por_unidade": 11.0
+    },
+    {
+      "nome": "POLPA DE TOMATE PURO",
+      "unidade": "KG",
+      "valor_por_unidade": 18.0
+    },
+    {
+      "nome": "EXTRATO DE TOMATE TOMADORO",
+      "unidade": "KG",
+      "valor_por_unidade": 9.5
+    },
+    {
+      "nome": "TAG P",
+      "unidade": "KG",
+      "valor_por_unidade": 0.03
+    },
+    {
+      "nome": "DELPACK RETANGULAR K67",
+      "unidade": "KG",
+      "valor_por_unidade": 1.60925
+    },
+    {
+      "nome": "SACO MICRA 12",
+      "unidade": "KG",
+      "valor_por_unidade": 0.15
+    },
+    {
+      "nome": "SACO MICRA  9",
+      "unidade": "KG",
+      "valor_por_unidade": 0.11
+    },
+    {
+      "nome": "TAG G",
+      "unidade": "KG",
+      "valor_por_unidade": 0.13
+    },
+    {
+      "nome": "SACO STAND UP SOPA",
+      "unidade": "KG",
+      "valor_por_unidade": 0.7
+    },
+    {
+      "nome": "EMBALAGEM PUDIM INDIVIDUAL",
+      "unidade": "KG",
+      "valor_por_unidade": 0.7
+    },
+    {
+      "nome": "ETIQUETA PRINT",
+      "unidade": "KG",
+      "valor_por_unidade": 0.24
+    },
+    {
+      "nome": "SACO MICRA 12",
+      "unidade": "KG",
+      "valor_por_unidade": 0.21
+    },
+    {
+      "nome": "GRÃO DE BICO",
+      "unidade": "KG",
+      "valor_por_unidade": 25.91
+    },
+    {
+      "nome": "ARROZ 7 GRÃOS",
+      "unidade": "KG",
+      "valor_por_unidade": 14.95
+    },
+    {
+      "nome": "ARROZ BRANCO",
+      "unidade": "KG",
+      "valor_por_unidade": 4.29
+    },
+    {
+      "nome": "ARROZ INTEGRAL",
+      "unidade": "KG",
+      "valor_por_unidade": 6.57
+    },
+    {
+      "nome": "ARROZ JASMINE",
+      "unidade": "KG",
+      "valor_por_unidade": 24.0
+    },
+    {
+      "nome": "ARROZ NEGRO",
+      "unidade": "KG",
+      "valor_por_unidade": 38.0
+    },
+    {
+      "nome": "FEIJÃO CARIOCA",
+      "unidade": "KG",
+      "valor_por_unidade": 8.0
+    },
+    {
+      "nome": "FEIJÃO PRETO",
+      "unidade": "KG",
+      "valor_por_unidade": 8.9
+    },
+    {
+      "nome": "FEIJÃO BRANCO",
+      "unidade": "KG",
+      "valor_por_unidade": 11.0
+    },
+    {
+      "nome": "FEIJÃO VERMELHO",
+      "unidade": "KG",
+      "valor_por_unidade": 12.0
+    },
+    {
+      "nome": "SAL ROSA",
+      "unidade": "KG",
+      "valor_por_unidade": 18.0
+    },
+    {
+      "nome": "AZEITE",
+      "unidade": "LT",
+      "valor_por_unidade": 44.0
+    },
+    {
+      "nome": "SAL MARINHO",
+      "unidade": "KG",
+      "valor_por_unidade": 1.6
+    },
+    {
+      "nome": "OLEO DE GIRASSOL",
+      "unidade": "KG",
+      "valor_por_unidade": 17.0
+    },
+    {
+      "nome": "OLEO DE SOJA",
+      "unidade": "KG",
+      "valor_por_unidade": 10.0
+    },
+    {
+      "nome": "ALHO GRANEL OK DESCASCADO DA FORTALI ou atual",
+      "unidade": "KG",
+      "valor_por_unidade": 20.0
+    },
+    {
+      "nome": "PIMENTA DO REINO",
+      "unidade": "KG",
+      "valor_por_unidade": 15.9
+    },
+    {
+      "nome": "ERVILHA SECA",
+      "unidade": "KG",
+      "valor_por_unidade": 14.0
+    },
+    {
+      "nome": "CREME DE LEITE ZERO LAC",
+      "unidade": "KG",
+      "valor_por_unidade": 19.0
+    },
+    {
+      "nome": "CAMARÃO FILE 51/60 MARIS",
+      "unidade": "KG",
+      "valor_por_unidade": 74.0
+    },
+    {
+      "nome": "JOELHO DE PORCO",
+      "unidade": "KG",
+      "valor_por_unidade": 14.29
+    },
+    {
+      "nome": "APARAS DE CARNE",
+      "unidade": "KG",
+      "valor_por_unidade": 30.0
+    },
+    {
+      "nome": "BIFE DO VAZIO",
+      "unidade": "KG",
+      "valor_por_unidade": 27.59
+    },
+    {
+      "nome": "LOMBO SUINO",
+      "unidade": "KG",
+      "valor_por_unidade": 14.9
+    },
+    {
+      "nome": "SIRIGADINHO",
+      "unidade": "KG",
+      "valor_por_unidade": 17.0
+    },
+    {
+      "nome": "MILHO VERDE",
+      "unidade": "KG",
+      "valor_por_unidade": 14.24
+    },
+    {
+      "nome": "LINGUIÇA VEGETAL FAZENDA FUTURO",
+      "unidade": "KG",
+      "valor_por_unidade": 88.0
+    },
+    {
+      "nome": "MANTEIGA",
+      "unidade": "KG",
+      "valor_por_unidade": 60.0
+    },
+    {
+      "nome": "CHOCOLATE EM GOTAS",
+      "unidade": "KG",
+      "valor_por_unidade": 32.0
+    },
+    {
+      "nome": "CACAU EM PÓ 100%",
+      "unidade": "KG",
+      "valor_por_unidade": 109.9
+    },
+    {
+      "nome": "LEITE CONDENSADO",
+      "unidade": "KG",
+      "valor_por_unidade": 16.0
+    },
+    {
+      "nome": "OVO",
+      "unidade": "KG",
+      "valor_por_unidade": 20.0
+    },
+    {
+      "nome": "MARGARINA",
+      "unidade": "KG",
+      "valor_por_unidade": 13.0
+    },
+    {
+      "nome": "ESPAGUETE DE ARROZ E FEIJÃO",
+      "unidade": "KG",
+      "valor_por_unidade": 12.0
+    },
+    {
+      "nome": "Azeite de dendê",
+      "unidade": "L",
+      "valor_por_unidade": 50.0
+    },
+    {
+      "nome": "Molho de pimenta",
+      "unidade": "L",
+      "valor_por_unidade": 67.1
+    },
+    {
+      "nome": "caldo magi",
+      "unidade": "kg",
+      "valor_por_unidade": 20.0
+    },
+    {
+      "nome": "creme culinário",
+      "unidade": "L",
+      "valor_por_unidade": 12.9
+    },
+    {
+      "nome": "COCO RALADO ADOÇADO",
+      "unidade": "KG",
+      "valor_por_unidade": 27.0
+    },
+    {
+      "nome": "CAFÉ SOLÚVEL",
+      "unidade": "KG",
+      "valor_por_unidade": 67.1
+    },
+    {
+      "nome": "LINGUINE MASSA CRUA",
+      "unidade": "KG",
+      "valor_por_unidade": 15.6
+    },
+    {
+      "nome": "massa grano duro cozida linguine",
+      "unidade": "KG",
+      "valor_por_unidade": 7.8
+    },
+    {
+      "nome": "FERMENTO BIOLÓGICO",
+      "unidade": "KG",
+      "valor_por_unidade": 39.9
+    },
+    {
+      "nome": "MUSSARELA",
+      "unidade": "KG",
+      "valor_por_unidade": 40.0
+    },
+    {
+      "nome": "CREAM CHEESE",
+      "unidade": "KG",
+      "valor_por_unidade": 52.0
+    },
+    {
+      "nome": "FEIJÃO FRADINHO",
+      "unidade": "KG",
+      "valor_por_unidade": 6.15
+    },
+    {
+      "nome": "NATA",
+      "unidade": "KG",
+      "valor_por_unidade": 14.5
+    },
+    {
+      "nome": "LARANJA",
+      "unidade": "KG",
+      "valor_por_unidade": 7.0
+    },
+    {
+      "nome": "ESSÊNCIA DE BAUNILHA",
+      "unidade": "Lt",
+      "valor_por_unidade": 21.25
+    },
+    {
+      "nome": "CHARQUE",
+      "unidade": "KG",
+      "valor_por_unidade": 43.0
+    },
+    {
+      "nome": "LOMBO SUÍNO",
+      "unidade": "KG",
+      "valor_por_unidade": 15.9
+    },
+    {
+      "nome": "CARNE DO SOL PRONTA",
+      "unidade": "kG",
+      "valor_por_unidade": 54.9
+    },
+    {
+      "nome": "QUEIJO MINAS PADRÃO",
+      "unidade": "KG",
+      "valor_por_unidade": 89.0
+    },
+    {
+      "nome": "TODDY",
+      "unidade": "KG",
+      "valor_por_unidade": 16.0
+    },
+    {
+      "nome": "FARFALLE GRANO DURO 500 G",
+      "unidade": "KG",
+      "valor_por_unidade": 15.0
+    },
+    {
+      "nome": "fécula de mandioca",
+      "unidade": "KG",
+      "valor_por_unidade": 12.0
+    }
+  ],
+  "config": {
+    "taxa_ifood": 0.26,
+    "custo_embalagem": 2.5,
+    "simples_nacional": {
+      "faixa1": {
+        "limite": 180000,
+        "aliquota": 0.06
+      },
+      "faixa2": {
+        "limite": 360000,
+        "aliquota": 0.112
+      },
+      "faixa3": {
+        "limite": 720000,
+        "aliquota": 0.135
+      },
+      "faixa4": {
+        "limite": 1800000,
+        "aliquota": 0.16
+      },
+      "faixa5": {
+        "limite": 3600000,
+        "aliquota": 0.21
+      }
+    }
+  },
+  "metadata": {
+    "total_produtos": 132,
+    "total_insumos": 148,
+    "categorias": [
+      "SOPAS",
+      "CARNE",
+      "OUTROS",
+      "FRANGO",
+      "LEGUMES",
+      "F. MAR",
+      "GRÃOS"
+    ]
+  }
+}
