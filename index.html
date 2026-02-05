@@ -14,7 +14,7 @@
 
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #DA291C 0%, #c41e15 100%);
             min-height: 100vh;
         }
 
@@ -26,7 +26,7 @@
 
         /* HEADER */
         .header {
-            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            background: linear-gradient(135deg, #DA291C 0%, #a61912 100%);
             padding: 30px;
             text-align: center;
             border-radius: 15px;
@@ -210,15 +210,15 @@
             width: 100%;
             padding: 20px;
             font-size: 1.2em;
-            border: 3px solid #00b894;
+            border: 3px solid #DA291C;
             border-radius: 12px;
             outline: none;
             transition: all 0.3s ease;
         }
 
         .search-input:focus {
-            border-color: #00b894;
-            box-shadow: 0 0 0 4px rgba(0,184,148,0.1);
+            border-color: #DA291C;
+            box-shadow: 0 0 0 4px rgba(218, 41, 28, 0.1);
         }
 
         .results-table {
@@ -228,7 +228,7 @@
         }
 
         .results-table th {
-            background: #00b894;
+            background: #DA291C;
             color: white;
             padding: 15px;
             text-align: left;
@@ -242,7 +242,7 @@
         }
 
         .results-table tbody tr:hover {
-            background: #667eea;
+            background: #DA291C;
             color: white;
             transform: scale(1.01);
             box-shadow: 0 3px 10px rgba(0,0,0,0.1);
@@ -272,10 +272,10 @@
         }
 
         .input-box {
-            background: #fffef7;
+            background: #fff5f5;
             padding: 25px;
             border-radius: 12px;
-            border: 3px solid #fdcb6e;
+            border: 3px solid #ffb3b3;
         }
 
         .input-box label {
@@ -297,7 +297,7 @@
         }
 
         .price-result {
-            background: linear-gradient(135deg, #00b894, #00d2a0);
+            background: linear-gradient(135deg, #DA291C, #c41e15);
             color: white;
             padding: 40px;
             border-radius: 12px;
@@ -359,13 +359,13 @@
         }
 
         .product-card:hover {
-            border-color: #667eea;
-            box-shadow: 0 5px 20px rgba(102,126,234,0.2);
+            border-color: #DA291C;
+            box-shadow: 0 5px 20px rgba(218, 41, 28, 0.2);
             transform: translateY(-5px);
         }
 
         .product-card .category {
-            color: #667eea;
+            color: #DA291C;
             font-size: 0.85em;
             font-weight: bold;
             margin-bottom: 8px;
@@ -390,7 +390,7 @@
         .product-card .cost {
             font-size: 1.5em;
             font-weight: bold;
-            color: #00b894;
+            color: #DA291C;
         }
 
         .product-card .weight {
@@ -417,7 +417,7 @@
             background: linear-gradient(135deg, #ffffff, #f0f0f0);
             padding: 25px;
             border-radius: 12px;
-            border: 3px dashed #667eea;
+            border: 3px dashed #DA291C;
             min-height: 400px;
         }
 
@@ -454,7 +454,7 @@
         }
 
         .portion-btn {
-            background: #667eea;
+            background: #DA291C;
             color: white;
             border: none;
             width: 30px;
@@ -465,14 +465,23 @@
             font-size: 1.2em;
         }
 
-        .portion-value {
-            font-weight: bold;
-            min-width: 60px;
+        .portion-input {
+            width: 80px;
+            padding: 8px;
             text-align: center;
+            border: 2px solid #DA291C;
+            border-radius: 8px;
+            font-weight: bold;
+            font-size: 1em;
+        }
+
+        .portion-label {
+            color: #666;
+            font-size: 0.9em;
         }
 
         .plate-total {
-            background: #667eea;
+            background: #DA291C;
             color: white;
             padding: 20px;
             border-radius: 12px;
@@ -554,7 +563,7 @@
         }
 
         .ficha-header {
-            background: linear-gradient(135deg, #667eea, #764ba2);
+            background: linear-gradient(135deg, #DA291C, #a61912);
             color: white;
             padding: 20px;
             border-radius: 10px;
@@ -568,7 +577,7 @@
         }
 
         .ficha-table th {
-            background: #667eea;
+            background: #DA291C;
             color: white;
             padding: 12px;
             text-align: left;
@@ -589,9 +598,9 @@
 
         .category-btn {
             padding: 10px 20px;
-            border: 2px solid #667eea;
+            border: 2px solid #DA291C;
             background: white;
-            color: #667eea;
+            color: #DA291C;
             border-radius: 20px;
             cursor: pointer;
             font-weight: bold;
@@ -599,7 +608,7 @@
         }
 
         .category-btn.active {
-            background: #667eea;
+            background: #DA291C;
             color: white;
         }
 
@@ -607,30 +616,17 @@
             transform: scale(1.05);
         }
 
-        /* UTILITIES */
-        .hidden {
-            display: none;
-        }
-
-        .mt-20 {
-            margin-top: 20px;
-        }
-
-        .text-center {
-            text-align: center;
-        }
-
         /* INFO BOX */
         .info-box {
-            background: #e7f3ff;
-            border-left: 4px solid #667eea;
+            background: #fff5f5;
+            border-left: 4px solid #DA291C;
             padding: 15px;
             margin-bottom: 20px;
             border-radius: 8px;
         }
 
         .info-box strong {
-            color: #667eea;
+            color: #DA291C;
         }
 
         /* Scrollbar */
@@ -644,12 +640,12 @@
         }
 
         ::-webkit-scrollbar-thumb {
-            background: #667eea;
+            background: #DA291C;
             border-radius: 10px;
         }
 
         ::-webkit-scrollbar-thumb:hover {
-            background: #764ba2;
+            background: #a61912;
         }
     </style>
 </head>
@@ -665,35 +661,35 @@
         <!-- HOME / NAVIGATION -->
         <div id="home-section">
             <div class="nav-grid">
-                <div class="nav-card" style="--card-color: #74B9FF; --card-color-light: #a4d4ff;" onclick="showSection('dashboard')">
+                <div class="nav-card" style="--card-color: #DA291C; --card-color-light: #ff6b6b;" onclick="showSection('dashboard')">
                     <div class="icon">📊</div>
                     <h3>DASHBOARD</h3>
                     <p>Visão geral do negócio</p>
                     <button class="btn">▶ ACESSAR</button>
                 </div>
 
-                <div class="nav-card" style="--card-color: #00B894; --card-color-light: #55efc4;" onclick="showSection('busca')">
+                <div class="nav-card" style="--card-color: #c41e15; --card-color-light: #DA291C;" onclick="showSection('busca')">
                     <div class="icon">🔍</div>
                     <h3>BUSCA</h3>
                     <p>Encontre produtos rapidamente</p>
                     <button class="btn">▶ ACESSAR</button>
                 </div>
 
-                <div class="nav-card" style="--card-color: #FDCB6E; --card-color-light: #ffeaa7;" onclick="showSection('pricing')">
+                <div class="nav-card" style="--card-color: #a61912; --card-color-light: #c41e15;" onclick="showSection('pricing')">
                     <div class="icon">💰</div>
                     <h3>PRECIFICAÇÃO</h3>
                     <p>Calcule preços REAIS</p>
                     <button class="btn">▶ ACESSAR</button>
                 </div>
 
-                <div class="nav-card" style="--card-color: #6C5CE7; --card-color-light: #a29bfe;" onclick="showSection('analytics')">
+                <div class="nav-card" style="--card-color: #DA291C; --card-color-light: #ff6b6b;" onclick="showSection('analytics')">
                     <div class="icon">📈</div>
                     <h3>ANÁLISES</h3>
                     <p>Insights por categoria</p>
                     <button class="btn">▶ ACESSAR</button>
                 </div>
 
-                <div class="nav-card" style="--card-color: #FD79A8; --card-color-light: #fdcfe8;" onclick="showSection('builder')">
+                <div class="nav-card" style="--card-color: #c41e15; --card-color-light: #DA291C;" onclick="showSection('builder')">
                     <div class="icon">🎯</div>
                     <h3>MONTADOR</h3>
                     <p>Monte pratos personalizados</p>
@@ -703,17 +699,17 @@
 
             <!-- QUICK STATS -->
             <div class="kpi-grid">
-                <div class="kpi-card" style="--kpi-color: #74B9FF; --kpi-color-dark: #0984e3;">
+                <div class="kpi-card" style="--kpi-color: #DA291C; --kpi-color-dark: #a61912;">
                     <div class="icon">📦</div>
                     <div class="label">PRODUTOS</div>
                     <div class="value" id="stat-produtos">-</div>
                 </div>
-                <div class="kpi-card" style="--kpi-color: #00B894; --kpi-color-dark: #00875f;">
+                <div class="kpi-card" style="--kpi-color: #c41e15; --kpi-color-dark: #8b1510;">
                     <div class="icon">💵</div>
                     <div class="label">CUSTO MÉDIO/PORÇÃO</div>
                     <div class="value" id="stat-custo">-</div>
                 </div>
-                <div class="kpi-card" style="--kpi-color: #FDCB6E; --kpi-color-dark: #f39c12;">
+                <div class="kpi-card" style="--kpi-color: #a61912; --kpi-color-dark: #7a120d;">
                     <div class="icon">⭐</div>
                     <div class="label">CATEGORIAS</div>
                     <div class="value" id="stat-categorias">-</div>
@@ -733,17 +729,17 @@
             </div>
 
             <div class="kpi-grid">
-                <div class="kpi-card" style="--kpi-color: #00B894; --kpi-color-dark: #00875f;">
+                <div class="kpi-card" style="--kpi-color: #DA291C; --kpi-color-dark: #a61912;">
                     <div class="icon">💰</div>
                     <div class="label">CUSTO TOTAL (SOMA)</div>
                     <div class="value" id="dash-total">-</div>
                 </div>
-                <div class="kpi-card" style="--kpi-color: #74B9FF; --kpi-color-dark: #0984e3;">
+                <div class="kpi-card" style="--kpi-color: #c41e15; --kpi-color-dark: #8b1510;">
                     <div class="icon">📦</div>
                     <div class="label">PRODUTOS</div>
                     <div class="value" id="dash-produtos">-</div>
                 </div>
-                <div class="kpi-card" style="--kpi-color: #FDCB6E; --kpi-color-dark: #f39c12;">
+                <div class="kpi-card" style="--kpi-color: #a61912; --kpi-color-dark: #7a120d;">
                     <div class="icon">📊</div>
                     <div class="label">CUSTO MÉDIO/PORÇÃO</div>
                     <div class="value" id="dash-media">-</div>
@@ -879,7 +875,7 @@
             </div>
 
             <div class="info-box">
-                <strong>💡 Como usar:</strong> Clique nos ingredientes para adicionar. Use os botões +/- para ajustar as porções. Clique em "Gerar PDF" para criar a ficha técnica!
+                <strong>💡 Como usar:</strong> Clique nos ingredientes para adicionar. Use os botões +/- ou digite a quantidade exata. Clique em "Gerar PDF" para criar a ficha técnica!
             </div>
 
             <div class="plate-builder">
@@ -913,10 +909,6 @@
     </div>
 
     <script>
-        // ============================================
-        // DADOS - CARREGADOS DO ARQUIVO JSON
-        // ============================================
-        
         let DADOS = {
             produtos: [],
             insumos: [],
@@ -927,7 +919,6 @@
         let currentPlate = [];
         let allProducts = [];
 
-        // Carregar dados do arquivo JSON
         async function loadData() {
             try {
                 const response = await fetch('yahnova_dados.json');
@@ -936,13 +927,11 @@
                 
                 console.log('✅ Dados carregados:', DADOS.metadata);
                 
-                // Atualizar stats da home
                 document.getElementById('stat-produtos').textContent = DADOS.metadata.total_produtos;
                 const avgCost = DADOS.produtos.reduce((sum, p) => sum + p.custo_por_porcao, 0) / DADOS.produtos.length;
                 document.getElementById('stat-custo').textContent = `R$ ${avgCost.toFixed(2)}`;
                 document.getElementById('stat-categorias').textContent = DADOS.metadata.categorias.length;
                 
-                // Inicializar busca
                 searchProducts();
             } catch (error) {
                 console.error('❌ Erro ao carregar dados:', error);
@@ -950,10 +939,6 @@
             }
         }
 
-        // ============================================
-        // NAVIGATION
-        // ============================================
-        
         function showSection(sectionName) {
             document.getElementById('home-section').style.display = 'none';
             document.querySelectorAll('.content-section').forEach(el => el.classList.remove('active'));
@@ -971,10 +956,6 @@
             document.getElementById('home-section').style.display = 'block';
         }
 
-        // ============================================
-        // SEARCH
-        // ============================================
-        
         function searchProducts() {
             if (!DADOS.produtos || DADOS.produtos.length === 0) return;
             
@@ -990,7 +971,7 @@
                 
                 return `
                     <tr onclick="showFichaTecnica('${p.nome.replace(/'/g, "\\'")}')">
-                        <td style="font-weight: bold; color: #667eea;">${idx + 1}</td>
+                        <td style="font-weight: bold; color: #DA291C;">${idx + 1}</td>
                         <td><strong>${p.nome}</strong></td>
                         <td style="color: #666; font-style: italic;">${p.categoria}</td>
                         <td>${p.peso_kg.toFixed(3)} kg</td>
@@ -1023,7 +1004,7 @@
                         </tr>
                         <tr>
                             <td><strong>Custo por Porção</strong></td>
-                            <td style="color: #00b894; font-weight: bold; font-size: 1.2em;">R$ ${produto.custo_por_porcao.toFixed(2)}</td>
+                            <td style="color: #DA291C; font-weight: bold; font-size: 1.2em;">R$ ${produto.custo_por_porcao.toFixed(2)}</td>
                         </tr>
                         <tr>
                             <td><strong>Custo por Kg</strong></td>
@@ -1043,26 +1024,22 @@
                         </thead>
                         <tbody>
                             ${[50, 100, 150].map(margem => {
-                                const custoTotal = produto.custo_por_porcao + 2.50; // + embalagem
+                                const custoTotal = produto.custo_por_porcao + 2.50;
                                 const precoSemTaxa = custoTotal * (1 + margem/100);
-                                const precoIfood = precoSemTaxa / (1 - 0.26 - 0.06); // taxa iFood + Simples
+                                const precoIfood = precoSemTaxa / (1 - 0.26 - 0.06);
                                 const lucro = precoIfood - custoTotal - (precoIfood * 0.26) - (precoIfood * 0.06);
                                 
                                 return `
                                     <tr>
                                         <td><strong>${margem}%</strong></td>
                                         <td>R$ ${precoSemTaxa.toFixed(2)}</td>
-                                        <td style="font-weight: bold; color: #667eea;">R$ ${precoIfood.toFixed(2)}</td>
+                                        <td style="font-weight: bold; color: #DA291C;">R$ ${precoIfood.toFixed(2)}</td>
                                         <td style="color: #00b894;">R$ ${lucro.toFixed(2)}</td>
                                     </tr>
                                 `;
                             }).join('')}
                         </tbody>
                     </table>
-                    
-                    <div style="margin-top: 25px; padding: 15px; background: #f8f9fa; border-radius: 8px;">
-                        <strong>💡 Dica:</strong> Para atingir uma margem real de lucro, considere todos os custos fixos (aluguel, funcionários, etc.) na precificação final.
-                    </div>
                 </div>
             `;
             
@@ -1073,17 +1050,12 @@
             document.getElementById('ficha-modal').classList.remove('active');
         }
 
-        // ============================================
-        // REAL PRICING CALCULATOR
-        // ============================================
-        
         function calculateRealPrice() {
             const cost = parseFloat(document.getElementById('price-cost')?.value) || 0;
             const margin = parseFloat(document.getElementById('price-margin')?.value) / 100 || 0;
             const packageCost = parseFloat(document.getElementById('price-package')?.value) || 0;
             const channel = document.getElementById('price-channel')?.value || 'ifood';
             
-            // Taxas por canal
             const channelFees = {
                 'ifood': 0.26,
                 'presencial': 0,
@@ -1091,28 +1063,21 @@
             };
             
             const fee = channelFees[channel];
-            const simples = 0.06; // Primeira faixa
+            const simples = 0.06;
             
-            // Custo total
             const totalCost = cost + packageCost;
-            
-            // Cálculo reverso: preço final que resulta na margem desejada
-            // Fórmula: Preço = (Custo Total) / (1 - Taxa - Simples - Margem Desejada)
             const finalPrice = totalCost / (1 - fee - simples - margin);
             
-            // Valores para breakdown
             const feeValue = finalPrice * fee;
             const simplesValue = finalPrice * simples;
             const netProfit = finalPrice - totalCost - feeValue - simplesValue;
             const realMargin = (netProfit / finalPrice) * 100;
             
-            // Atualizar display
             document.getElementById('price-final').textContent = `R$ ${finalPrice.toFixed(2)}`;
             document.getElementById('price-total-cost').textContent = `R$ ${totalCost.toFixed(2)}`;
             document.getElementById('price-net-profit').textContent = `R$ ${netProfit.toFixed(2)}`;
             document.getElementById('price-real-margin').textContent = `${realMargin.toFixed(1)}%`;
             
-            // Breakdown
             const breakdown = [
                 { item: 'Custo do Produto', value: cost, pct: (cost/finalPrice)*100 },
                 { item: 'Embalagem', value: packageCost, pct: (packageCost/finalPrice)*100 },
@@ -1124,25 +1089,20 @@
             const tbody = document.getElementById('cost-breakdown');
             if (tbody) {
                 tbody.innerHTML = breakdown.map(b => `
-                    <tr style="${b.highlight ? 'background: #e8f8f5; font-weight: bold;' : ''}">
+                    <tr style="${b.highlight ? 'background: #fff5f5; font-weight: bold;' : ''}">
                         <td>${b.item}</td>
-                        <td style="color: ${b.highlight ? '#00b894' : '#333'};">R$ ${b.value.toFixed(2)}</td>
+                        <td style="color: ${b.highlight ? '#DA291C' : '#333'};">R$ ${b.value.toFixed(2)}</td>
                         <td>${b.pct.toFixed(1)}%</td>
                     </tr>
                 `).join('');
             }
         }
 
-        // ============================================
-        // ANALYTICS
-        // ============================================
-        
         function initAnalytics() {
             if (!DADOS.produtos || DADOS.produtos.length === 0) return;
             
             const categories = [...new Set(DADOS.produtos.map(p => p.categoria))].sort();
             
-            // Criar filtros
             const filterDiv = document.getElementById('category-filter');
             filterDiv.innerHTML = `
                 <button class="category-btn active" onclick="filterByCategory('all')">TODAS</button>
@@ -1151,12 +1111,10 @@
                 `).join('')}
             `;
             
-            // Mostrar todos inicialmente
             filterByCategory('all');
         }
 
         function filterByCategory(category) {
-            // Atualizar botões ativos
             document.querySelectorAll('.category-btn').forEach(btn => {
                 btn.classList.remove('active');
                 if ((category === 'all' && btn.textContent === 'TODAS') || 
@@ -1165,15 +1123,12 @@
                 }
             });
             
-            // Filtrar produtos
             let filtered = category === 'all' ? 
                 DADOS.produtos : 
                 DADOS.produtos.filter(p => p.categoria === category);
             
-            // Ordenar por custo (crescente)
             filtered.sort((a, b) => a.custo_por_porcao - b.custo_por_porcao);
             
-            // Mostrar cards
             const container = document.getElementById('analytics-products');
             container.innerHTML = `
                 <div class="products-grid">
@@ -1199,10 +1154,6 @@
             `;
         }
 
-        // ============================================
-        // PLATE BUILDER
-        // ============================================
-        
         function initBuilder() {
             filterIngredients('');
         }
@@ -1232,7 +1183,7 @@
             
             currentPlate.push({
                 ...produto,
-                portions: 1
+                portions: 1.00
             });
             updatePlate();
         }
@@ -1242,10 +1193,17 @@
             updatePlate();
         }
 
+        function updatePortionInput(index, value) {
+            const portions = parseFloat(value) || 0;
+            if (portions >= 0) {
+                currentPlate[index].portions = portions;
+                updatePlate();
+            }
+        }
+
         function updatePortions(index, delta) {
-            const item = currentPlate[index];
-            const newPortions = Math.max(0.25, item.portions + delta);
-            currentPlate[index].portions = newPortions;
+            const newPortions = Math.max(0, currentPlate[index].portions + delta);
+            currentPlate[index].portions = parseFloat(newPortions.toFixed(2));
             updatePlate();
         }
 
@@ -1266,12 +1224,15 @@
                         </div>
                         <div class="portion-control">
                             <button class="portion-btn" onclick="updatePortions(${idx}, -0.25)">-</button>
-                            <div class="portion-value">
-                                ${item.portions.toFixed(2)}x<br>
-                                <small style="color: #666;">${(itemWeight * 1000).toFixed(0)}g</small>
-                            </div>
+                            <input type="number" 
+                                   class="portion-input" 
+                                   value="${item.portions.toFixed(2)}" 
+                                   step="0.25" 
+                                   min="0"
+                                   onchange="updatePortionInput(${idx}, this.value)">
                             <button class="portion-btn" onclick="updatePortions(${idx}, 0.25)">+</button>
-                            <div style="margin-left: auto; font-weight: bold; color: #00b894; font-size: 1.2em;">
+                            <span class="portion-label">${(itemWeight * 1000).toFixed(0)}g</span>
+                            <div style="margin-left: auto; font-weight: bold; color: #DA291C; font-size: 1.2em;">
                                 R$ ${itemCost.toFixed(2)}
                             </div>
                         </div>
@@ -1296,51 +1257,55 @@
             const { jsPDF } = window.jspdf;
             const doc = new jsPDF();
             
-            // Header
-            doc.setFillColor(102, 92, 231);
-            doc.rect(0, 0, 210, 40, 'F');
+            // Header vermelho
+            doc.setFillColor(218, 41, 28);
+            doc.rect(0, 0, 210, 45, 'F');
             
             doc.setTextColor(255, 255, 255);
-            doc.setFontSize(24);
+            doc.setFontSize(26);
             doc.text('YAHNOVA BRANDS', 105, 15, { align: 'center' });
             
             doc.setFontSize(14);
-            doc.text('Ficha Técnica de Produção', 105, 25, { align: 'center' });
+            doc.text('Ficha Técnica de Produção', 105, 27, { align: 'center' });
             
-            doc.setFontSize(18);
-            doc.text(plateName, 105, 35, { align: 'center' });
+            doc.setFontSize(20);
+            doc.text(plateName, 105, 39, { align: 'center' });
             
-            // Informações gerais
+            // Info
             doc.setTextColor(0, 0, 0);
-            doc.setFontSize(12);
-            let y = 50;
+            doc.setFontSize(11);
+            let y = 55;
             
             const totalCost = currentPlate.reduce((sum, item) => sum + (item.custo_por_porcao * item.portions), 0);
             const totalWeight = currentPlate.reduce((sum, item) => sum + (item.peso_kg * item.portions), 0);
             
             doc.text(`Data: ${new Date().toLocaleDateString('pt-BR')}`, 20, y);
-            y += 10;
+            y += 8;
             doc.text(`Peso Total: ${(totalWeight * 1000).toFixed(0)}g`, 20, y);
-            y += 10;
+            y += 8;
             doc.text(`Custo Total: R$ ${totalCost.toFixed(2)}`, 20, y);
             y += 15;
             
-            // Tabela de ingredientes
+            // Tabela
             doc.setFontSize(14);
+            doc.setFont(undefined, 'bold');
             doc.text('INGREDIENTES:', 20, y);
             y += 10;
             
+            // Header tabela
             doc.setFontSize(10);
-            doc.setFillColor(102, 92, 231);
-            doc.rect(20, y - 5, 170, 8, 'F');
+            doc.setFillColor(218, 41, 28);
+            doc.rect(20, y - 6, 170, 10, 'F');
             doc.setTextColor(255, 255, 255);
+            doc.setFont(undefined, 'bold');
             doc.text('ITEM', 25, y);
-            doc.text('PORÇÕES', 90, y);
-            doc.text('PESO', 120, y);
-            doc.text('CUSTO', 160, y);
+            doc.text('PORÇÕES', 105, y);
+            doc.text('PESO', 135, y);
+            doc.text('CUSTO', 165, y);
             
-            y += 10;
+            y += 12;
             doc.setTextColor(0, 0, 0);
+            doc.setFont(undefined, 'normal');
             
             currentPlate.forEach((item, idx) => {
                 const itemCost = item.custo_por_porcao * item.portions;
@@ -1354,35 +1319,38 @@
                 // Zebrado
                 if (idx % 2 === 0) {
                     doc.setFillColor(248, 249, 250);
-                    doc.rect(20, y - 5, 170, 8, 'F');
+                    doc.rect(20, y - 6, 170, 10, 'F');
                 }
                 
-                doc.text(item.nome.substring(0, 35), 25, y);
-                doc.text(`${item.portions.toFixed(2)}x`, 90, y);
-                doc.text(`${(itemWeight * 1000).toFixed(0)}g`, 120, y);
-                doc.text(`R$ ${itemCost.toFixed(2)}`, 160, y);
+                // Truncar nome se muito longo
+                const maxLength = 38;
+                const displayName = item.nome.length > maxLength ? 
+                    item.nome.substring(0, maxLength) + '...' : item.nome;
                 
-                y += 8;
+                doc.setFontSize(9);
+                doc.text(displayName, 25, y);
+                doc.text(`${item.portions.toFixed(2)}x`, 105, y);
+                doc.text(`${(itemWeight * 1000).toFixed(0)}g`, 135, y);
+                doc.text(`R$ ${itemCost.toFixed(2)}`, 165, y);
+                
+                y += 10;
             });
             
             // Total
             y += 5;
-            doc.setFillColor(0, 184, 148);
-            doc.rect(20, y - 5, 170, 10, 'F');
+            doc.setFillColor(218, 41, 28);
+            doc.rect(20, y - 6, 170, 12, 'F');
             doc.setTextColor(255, 255, 255);
-            doc.setFontSize(12);
+            doc.setFontSize(11);
+            doc.setFont(undefined, 'bold');
             doc.text('TOTAL', 25, y + 2);
-            doc.text(`${(totalWeight * 1000).toFixed(0)}g`, 120, y + 2);
-            doc.text(`R$ ${totalCost.toFixed(2)}`, 160, y + 2);
+            doc.text(`${(totalWeight * 1000).toFixed(0)}g`, 135, y + 2);
+            doc.text(`R$ ${totalCost.toFixed(2)}`, 165, y + 2);
             
             // Salvar
             doc.save(`${plateName.replace(/\s+/g, '_')}_ficha_tecnica.pdf`);
         }
 
-        // ============================================
-        // DASHBOARD
-        // ============================================
-        
         function initDashboard() {
             if (!DADOS.produtos || DADOS.produtos.length === 0) return;
             
@@ -1393,7 +1361,6 @@
             document.getElementById('dash-produtos').textContent = DADOS.produtos.length;
             document.getElementById('dash-media').textContent = `R$ ${avgCost.toFixed(2)}`;
             
-            // Por categoria
             const categories = {};
             DADOS.produtos.forEach(p => {
                 if (!categories[p.categoria]) {
@@ -1420,15 +1387,10 @@
             document.getElementById('products-by-category').innerHTML = `<div class="products-grid">${html}</div>`;
         }
 
-        // ============================================
-        // INITIALIZE
-        // ============================================
-        
         window.addEventListener('load', () => {
             loadData();
         });
 
-        // Fechar modal ao clicar fora
         document.getElementById('ficha-modal').addEventListener('click', (e) => {
             if (e.target.id === 'ficha-modal') {
                 closeModal();
